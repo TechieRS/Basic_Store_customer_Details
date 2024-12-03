@@ -13,5 +13,5 @@ This is a simple program written in C to collect customer order information. The
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/customer-order-program.git
-   cd customer-order-program
+   git clone https://github.com/TechieRS/Basic_Store_customer_Details.git
+   cd Basic_Store_customer_Details
